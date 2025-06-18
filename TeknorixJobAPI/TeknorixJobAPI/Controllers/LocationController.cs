@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
 using TeknorixJobAPI.Helper;
@@ -9,6 +10,7 @@ namespace TeknorixJobAPI.Controllers
     [ApiController]
     [ApiVersion("1")]
     [Route("api/v{version:apiVersion}/[controller]")]
+    [Authorize]
     public class LocationsController : ControllerBase
     {
         private readonly ApplicationDbContext _context;

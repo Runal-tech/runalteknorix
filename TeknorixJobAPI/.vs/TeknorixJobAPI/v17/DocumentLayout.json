@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\runal\\source\\repos\\TeknorixJobAPI\\",
+  "WorkspaceRootPath": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|c:\\users\\runal\\source\\repos\\teknorixjobapi\\teknorixjobapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|solutionrelative:teknorixjobapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|c:\\users\\runal\\source\\repos\\teknorixjobapi\\teknorixjobapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|solutionrelative:teknorixjobapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|c:\\users\\runal\\source\\repos\\teknorixjobapi\\teknorixjobapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|c:\\inetpub\\runalteknorix\\teknorixjobapi\\teknorixjobapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|solutionrelative:teknorixjobapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|c:\\users\\runal\\source\\repos\\teknorixjobapi\\teknorixjobapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|c:\\inetpub\\runalteknorix\\teknorixjobapi\\teknorixjobapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|solutionrelative:teknorixjobapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|c:\\inetpub\\runalteknorix\\teknorixjobapi\\teknorixjobapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|solutionrelative:teknorixjobapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|c:\\inetpub\\runalteknorix\\teknorixjobapi\\teknorixjobapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|solutionrelative:teknorixjobapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|c:\\inetpub\\runalteknorix\\teknorixjobapi\\teknorixjobapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|solutionrelative:teknorixjobapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|c:\\inetpub\\runalteknorix\\teknorixjobapi\\teknorixjobapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|solutionrelative:teknorixjobapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|c:\\inetpub\\runalteknorix\\teknorixjobapi\\teknorixjobapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D1B1B0B-8135-46E2-B190-8E8654E46EDE}|TeknorixJobAPI\\TeknorixJobAPI.csproj|solutionrelative:teknorixjobapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,56 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TeknorixJobAPI\\Program.cs",
+              "ToolTip": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\Program.cs",
+              "RelativeToolTip": "TeknorixJobAPI\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:41:40.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TeknorixJobAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TeknorixJobAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T11:37:36.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TeknorixJobAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TeknorixJobAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:33:15.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "LocationController.cs",
-              "DocumentMoniker": "C:\\Users\\runal\\source\\repos\\TeknorixJobAPI\\TeknorixJobAPI\\Controllers\\LocationController.cs",
+              "DocumentMoniker": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\Controllers\\LocationController.cs",
               "RelativeDocumentMoniker": "TeknorixJobAPI\\Controllers\\LocationController.cs",
-              "ToolTip": "C:\\Users\\runal\\source\\repos\\TeknorixJobAPI\\TeknorixJobAPI\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\Controllers\\LocationController.cs",
               "RelativeToolTip": "TeknorixJobAPI\\Controllers\\LocationController.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAIwG8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T10:45:22.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "JobController.cs",
-              "DocumentMoniker": "C:\\Users\\runal\\source\\repos\\TeknorixJobAPI\\TeknorixJobAPI\\Controllers\\JobController.cs",
+              "DocumentMoniker": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\Controllers\\JobController.cs",
               "RelativeDocumentMoniker": "TeknorixJobAPI\\Controllers\\JobController.cs",
-              "ToolTip": "C:\\Users\\runal\\source\\repos\\TeknorixJobAPI\\TeknorixJobAPI\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\Controllers\\JobController.cs",
               "RelativeToolTip": "TeknorixJobAPI\\Controllers\\JobController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T10:45:17.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\runal\\source\\repos\\TeknorixJobAPI\\TeknorixJobAPI\\Controllers\\DepartmentController.cs",
+              "DocumentMoniker": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "TeknorixJobAPI\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\runal\\source\\repos\\TeknorixJobAPI\\TeknorixJobAPI\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "TeknorixJobAPI\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T10:37:06.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\runal\\source\\repos\\TeknorixJobAPI\\TeknorixJobAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\appsettings.json",
               "RelativeDocumentMoniker": "TeknorixJobAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\runal\\source\\repos\\TeknorixJobAPI\\TeknorixJobAPI\\appsettings.json",
+              "ToolTip": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\appsettings.json",
               "RelativeToolTip": "TeknorixJobAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-18T10:32:29.71Z",
               "EditorCaption": ""

@@ -1,14 +1,16 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using TeknorixJobAPI.Models;
 using System.ComponentModel.DataAnnotations;
 using TeknorixJobAPI.Helper;
+using TeknorixJobAPI.Models;
 
 namespace TeknorixJobAPI.Controllers
 {
     [ApiController]
     [ApiVersion("1")] 
     [Route("api/v{version:apiVersion}/[controller]")]
+    [Authorize]
     public class DepartmentsController : ControllerBase
     {
         private readonly ApplicationDbContext _context;

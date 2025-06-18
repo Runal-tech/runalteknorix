@@ -26,6 +26,42 @@
     ]
   },
   {
+    "ContainingType": "TeknorixJobAPI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/v{version}/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TeknorixJobAPI.Controllers.AuthController\u002BLoginRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 401
+      }
+    ]
+  },
+  {
     "ContainingType": "TeknorixJobAPI.Controllers.DepartmentsController",
     "Method": "CreateDepartment",
     "RelativePath": "api/v{version}/Departments",

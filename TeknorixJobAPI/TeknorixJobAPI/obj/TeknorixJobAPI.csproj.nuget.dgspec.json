@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\runal\\source\\repos\\TeknorixJobAPI\\TeknorixJobAPI\\TeknorixJobAPI.csproj": {}
+    "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\TeknorixJobAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\runal\\source\\repos\\TeknorixJobAPI\\TeknorixJobAPI\\TeknorixJobAPI.csproj": {
+    "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\TeknorixJobAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\runal\\source\\repos\\TeknorixJobAPI\\TeknorixJobAPI\\TeknorixJobAPI.csproj",
+        "projectUniqueName": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\TeknorixJobAPI.csproj",
         "projectName": "TeknorixJobAPI",
-        "projectPath": "C:\\Users\\runal\\source\\repos\\TeknorixJobAPI\\TeknorixJobAPI\\TeknorixJobAPI.csproj",
+        "projectPath": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\TeknorixJobAPI.csproj",
         "packagesPath": "C:\\Users\\runal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\runal\\source\\repos\\TeknorixJobAPI\\TeknorixJobAPI\\obj\\",
+        "outputPath": "C:\\inetpub\\RunalTeknorix\\TeknorixJobAPI\\TeknorixJobAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
             "Microsoft.AspNetCore.Mvc.Versioning": {
               "target": "Package",
               "version": "[5.1.0, )"

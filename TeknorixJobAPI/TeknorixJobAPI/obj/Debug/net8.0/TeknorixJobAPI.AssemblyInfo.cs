@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeknorixJobAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5aea8c0c5102099340e2a71fd713c4af59696e90")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeknorixJobAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeknorixJobAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
